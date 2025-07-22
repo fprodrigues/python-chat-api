@@ -16,7 +16,6 @@ Uma API de chat feita com FastAPI e LangChain que simula um **camponês medieval
 - [Como executar](#como-executar)
 - [Testes](#testes)
 - [Exemplo de uso](#exemplo-de-uso)
-- [English version](#english-version)
 
 ---
 

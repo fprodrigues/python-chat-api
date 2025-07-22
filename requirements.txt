@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+httpx
+
+# OpenAI + LangChain
+openai>=1.6.1
+langchain>=0.3,<0.4
+langchain-core>=0.3,<0.4
+langchain-openai>=0.3,<0.4
+
+# Utilities
+python-dotenv
+
+# Testes
+pytest
